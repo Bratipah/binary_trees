@@ -1,6 +1,6 @@
 #include "binary_trees.h""
 
-/*
+/**
 
  * binary_tree_insert_right - Insert a node as the right-chil
  *                            of another in a binary tree.
